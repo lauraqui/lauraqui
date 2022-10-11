@@ -8,8 +8,18 @@
 - 👯 I’m looking to collaborate on **Front-End Community**
 - 😄 She/Her
 
-
-  
+  <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?
+  <a href="https://github.com/lauraqui">
+username=lauraqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraqui&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+e4ses4
+<div align="center">
+  <a href="https://github.com/lauraqui">
+username=lauraqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraqui&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Laura-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
